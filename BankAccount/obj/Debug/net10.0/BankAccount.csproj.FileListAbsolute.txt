@@ -1,0 +1,15 @@
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.AssemblyInfoInputs.cache
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.AssemblyInfo.cs
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.sourcelink.json
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.deps.json
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.runtimeconfig.json
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.dll
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/bin/Debug/net10.0/BankAccount.pdb
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.dll
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/refint/BankAccount.dll
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.pdb
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/BankAccount.genruntimeconfig.cache
+/Users/salehabbasov/Desktop/BankAccount/BankAccount/obj/Debug/net10.0/ref/BankAccount.dll
